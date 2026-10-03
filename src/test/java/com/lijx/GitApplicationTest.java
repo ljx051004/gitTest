@@ -59,5 +59,8 @@ public class GitApplicationTest
     public void test8(){
         System.out.println("练习Git4");
     }
+    public void test9(){
+        System.out.println("练习Git5");
+    }
 
 }
