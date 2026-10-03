@@ -38,4 +38,7 @@ public class GitApplicationTest
     public void test(){
         System.out.println("Git-test...");
     }
+    public void test4(){
+        System.out.println("测试分支4");
+    }
 }
