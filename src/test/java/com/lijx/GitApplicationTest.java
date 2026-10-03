@@ -36,6 +36,12 @@ public class GitApplicationTest
         assertTrue( true );
     }
     public void test(){
-        System.out.println("Git-test...");
+        System.out.println("测试分支1...");
+    }
+    public void test2(){
+        System.out.println("测试分支2...");
+    }
+    public void test3(){
+        System.out.println("测试分支3...");
     }
 }
