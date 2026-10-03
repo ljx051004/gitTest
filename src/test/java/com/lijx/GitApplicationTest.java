@@ -45,6 +45,10 @@ public class GitApplicationTest
         System.out.println("测试分支3...");
     }
     public void test4(){
+        System.out.println("测试分支4");
+    }
+    public void test5(){
         System.out.println("练习Git1");
     }
+
 }
